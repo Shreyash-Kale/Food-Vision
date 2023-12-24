@@ -1,4 +1,4 @@
-# Food-Vision 🍔👁
+# FoodNet-101 🍔👁
 
 > A Deep Learning Model to classify 101 classes of food items, using all of the data from the Food101 dataset.
 
