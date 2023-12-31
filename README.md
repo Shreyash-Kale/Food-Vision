@@ -1,5 +1,6 @@
 # FoodNet 🍔👁
 
+> Please go through the "FoodNetipynb" colab file for source code. 
 An end-to-end CNN Image Classification Model which identifies the food in your image.
 
 I worked out with a pretrained Image Classification Model that comes with Keras and then retrained it on the infamous Food101 Dataset.
